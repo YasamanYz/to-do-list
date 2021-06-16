@@ -1,0 +1,111 @@
+#listTitle {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    font-weight: 300px;
+}
+
+.border {
+    width: 400px;
+    margin: 0 auto;
+    background-color: rgb(106, 139, 230);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    min-height: 300px;
+}
+
+.lists {
+    font-size: 10px;
+    font-weight: 100;
+}
+
+body {
+    background-color: turquoise;
+    text-align: center;
+}
+
+.title {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.newItem {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    font-weight: 100;
+}
+
+.done {
+    text-decoration: line-through;
+}
+chk{
+    background-color: red;
+}
+/* input[type="checkbox"] {
+    width: 15px !important;
+    height: 15px !important;
+    margin: 4px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    -o-appearance: none;
+    appearance: none;
+    outline: 2px solid black;
+    box-shadow: none;
+    font-size: 2em;
+    background-color: gray;
+} */
+
+/* input[type="checkbox"] {
+	-webkit-appearance: none;
+	background-color: #fafafa;
+	border: 1px solid #3d4246;
+	box-shadow: 0 1px 2px rgba(0,0,0,0.05), inset 0px -15px 10px -12px rgba(0,0,0,0.05);
+	padding: 9px;
+	border-radius: 3px;
+	display: inline-block;
+	position: relative;
+}
+input[type="checkbox"]:active, input[type="checkbox"]:checked:active {
+	box-shadow: 0 1px 2px rgba(0,0,0,0.05), inset 0px 1px 3px rgba(0,0,0,0.1);
+}
+
+input[type="checkbox"]:checked {
+	background-color: #e9ecee;
+	border: 1px solid #3d4246;
+	box-shadow: 0 1px 2px rgba(0,0,0,0.05), inset 0px -15px 10px -12px rgba(0,0,0,0.05), inset 15px 10px -12px rgba(255,255,255,0.1);
+	color: #99a1a7;
+}
+
+input[type="checkbox"]:checked:after {
+	content: '\2714';
+	font-size: 14px;
+	position: absolute;
+	top: 3px;
+	left: 3px;
+	color: #050505;
+}
+
+input[type="checkbox"] {
+	padding: 8px;
+}
+
+input[type="checkbox"]:checked:after {
+	font-size:8px;
+	left: 6px;
+} */
+
+/* Customize the label (the container)
+input[type="checkbox"] {
+    display: block;
+    position: relative;
+    padding-left: 35px;
+    margin-bottom: 12px;
+    cursor: pointer;
+    font-size: 22px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+   */
+  
